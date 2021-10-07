@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello!
+welcome to the garbage vortex
 <!--
 **claireevan/claireevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
